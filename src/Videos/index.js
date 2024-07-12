@@ -40,7 +40,7 @@ const Videos = ()=>{
 
 
                 <div><iframe src="https://www.loom.com/embed/785e76518a494715a08761c75c05fb8f?sid=8a19a939-8a75-479f-9b82-36a43b386aac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen className="video"></iframe>
-                <p className="text"><b>Episode 5:</b> The use case and impact of ChatGPT</p>
+                <p className="text"><b>Episode 5:</b> The use case and impact of ChatGPT.</p>
                
 </div>
          

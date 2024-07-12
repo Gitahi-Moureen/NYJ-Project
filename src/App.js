@@ -1,15 +1,14 @@
 import './App.css';
-import Videos from "./Videos";
+import Navbar from './Home';
+import Videos from './Videos';
 
-
-const App = ()=>{
-    return(
-        <div>
-     <Videos/>
- 
-        </div>
-    )
-
+function App() {
+  return (
+    <div>
+      <Navbar/>
+      <Videos/>
+    </div>
+  );
 }
 
 
