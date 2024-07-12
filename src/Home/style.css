@@ -116,13 +116,16 @@
     background-color: #071739;
     color: #fff;
     border: none;
-    padding: 15px 16px;
+    padding: 10px 16px;
     font-size: 29px;
     cursor: pointer;
     margin-top: 155px;
     margin-left: 200px;
     font-family: fantasy;
     border-radius: 20px;
+    width: 290px;
+    height: 50px;
+    text-align: center;
 
   }
   

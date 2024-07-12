@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './style.css';
 
 
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [showModal, setShowModal] = useState(false);
@@ -30,7 +31,7 @@ const Navbar = () => {
         </div>
         <ul className={`nav-menu ${isOpen ? 'open' : ''}`}>
           <li className="nav-item"><em><a href="#">Home</a></em></li>
-          <li className="nav-item"><a href="#">Videos</a></li>
+          <li className="nav-item"><a href="http://localhost:3001/">Videos</a></li>
           <li className="nav-item"><a href="#">Blogs</a></li>
           <li className="nav-item"><a href="#">Podcast</a></li>
           <li className="nav-item"><a href="#">Portfolio</a></li>
