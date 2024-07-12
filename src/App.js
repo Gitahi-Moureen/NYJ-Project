@@ -1,14 +1,19 @@
 import './App.css';
 import Blog from "./Blog";
+import Navbar from './Home';
+import Videos from './Videos';
 
-const App = ()=>{
-    return(
-        <div>
+function App() {
+  return (
+    <div>
+      <Navbar/>
+      <Videos/>
             <Blog/>
-        </div>
-    )
+    </div>
+  );
 
 }
 
 
 export default App;
+
