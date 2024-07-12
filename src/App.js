@@ -1,6 +1,7 @@
 import './App.css';
 import Blog from "./Blog";
 import Navbar from './Home';
+import Podcastpage from './Podcastpage';
 import Videos from './Videos';
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div>
       <Navbar/>
       <Videos/>
-            <Blog/>
+      <Podcastpage/>
+         <Blog/>
     </div>
   );
 
