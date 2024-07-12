@@ -22,7 +22,7 @@ const Videos = ()=>{
 </div>
           
 <div ><iframe src="https://www.loom.com/embed/a456880b8c98406db4da1612a303dcd2?sid=bea2c28f-5b66-4b68-988c-3e7f4a586e5b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen className="video"></iframe>
-                <p className="text"><b>Episode 3:</b> Features of ChatGPT and<br></br> how the product generates revenue.
+                <p className="text"><b>Episode 3:</b> Features of ChatGPT and<br></br> how the ChatGPT generates revenue.
 
 </p>
                    
