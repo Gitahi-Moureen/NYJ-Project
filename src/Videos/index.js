@@ -9,15 +9,15 @@ const Videos = ()=>{
     
         
                 <div className="vid"> 
-                <h1 className="chatgpt">ChatGPT Season 1</h1>
+                <h1 className="chatgpt">ChatGPT Season 1 </h1>
                   <div className="vidLine1">
                 <div><iframe src="https://www.loom.com/embed/b47031eddc2147a99aebaf32b006af92?sid=d5b32b52-3f4c-4d29-9f41-a2951c7327bc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen className="video"></iframe>
-                <p className="text"><b>Episode 1:</b>The development of ChatGPT</p>
+                <p className="text"><b>Episode 1:</b>The development of ChatGPT.</p>
                 
 </div>   
 
 <div><iframe src="https://www.loom.com/embed/c9a0867f680148cb96476650bb0948ff?sid=584fca13-1928-43cb-9466-1bd22077e4a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen className="video"></iframe>
-                <p className="text"><b>Episode 2:</b> The architecture outline of ChatGPT</p>
+                <p className="text"><b>Episode 2:</b> The architecture outline of ChatGPT.</p>
                
 </div>
           
