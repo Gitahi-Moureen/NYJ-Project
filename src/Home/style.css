@@ -167,6 +167,205 @@
   .modal-close-button:hover {
     background-color: #D9D9D9;
   } 
+  vid{
+    margin-left: 5%;
+    margin-top: -2%;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 35px;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 5%;
+    margin-top: -2%;
+}
+.text{
+    margin-left: 2%;
+}
+.icon{
+    width: 20px;
+    height: 25px;
+}
+.likeandshare{
+    display: flex;
+    gap: 50px;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+.vidLine1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+.vidLine2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4%;
+}
+.text{
+    margin-left: 5%;
+    font-size: 20px;
+}
+.video{
+    height: 250px;
+    width: 500px;
+}
+
+.book-intro{
+  display: flex;
+  gap: 30%;
+}
+.heading{
+  margin-left: -63%;
+  font-size: 44px;
+  margin-top: 5%;
+}
+.book{
+  height: 360px;
+  margin-left: 13%;
+}
+.title{
+  font-weight: bold;
+  font-size: 81px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', inria-serif;
+  width: 33%;
+  margin-left: -10%;
+  margin-top: 5%;
+}
+.blogs{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', inria-serif;
+  margin-left: 50%;
+  font-size: 43px;
+  font-weight: bold;
+  margin-top: 2%;
+}
+.trevor{
+  position: relative;
+  display: flex;
+  height: 58%;
+  margin-left: 37%;
+  margin-top: -2%;
+}
+.learn{
+  position: absolute;
+  margin-top: -2%;
+  margin-left: 11.5%;
+  border-radius: 5px;
+  padding: 6px 14px;
+  background-color: rgb(17, 17, 85);
+  color: white;
+}
+.learn2{
+  position: absolute;
+  margin-top: -2%;
+  margin-left: 11.5%;
+  width: 6%;
+  height: 25px;
+  border-radius: 5px;
+  padding: 6px 14px;
+  background-color: rgb(17, 17, 85);
+  color: white;
+}
+.learn3{
+  position: absolute;
+  margin-top: -2%;
+  margin-left: 11.5%;
+  width: 6%;
+  height: 25px;
+  border-radius: 5px;
+  padding: 6px 14px;
+  background-color: rgb(17, 17, 85);
+  color: white;
+}
+.links{
+  display: flex;
+  gap: 10%;
+  margin-left: 5%;
+  margin-top: 2.5%;
+}
+
+h1{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+  margin-top: 3%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+  font-size: 40px;
+  color: #1B5BA5;
+  margin-top: 10%;
+  line-height: 1.8;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 80%;
+  margin-left: 4%;
+}
+p{
+  margin-left: 7%;
+  width: 60%;
+  line-height: 2.0;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+  margin-left: 5%;
+  font-size: 20px;
+}
+.content{
+  display: flex;
+  gap: 20%;
+  margin-top: 5%;
+}
+.mic{
+  width: 200px;
+  margin-left: 50%;
+}
+.hero{
+  display: flex;
+  margin-left: 1%;
+}
+.pod{
+  width: 400px;
+  margin-left: -50%;
+  margin-top: 12%;
+}
+.mic2{
+  width: 200px;
+  margin-left: 50%;
+}
+.text{
+ margin-top: 5%;
+}
+.firstset{
+  gap: 20%;
+  display: flex;
+  justify-content: center;
+  margin-left: -5%;
+}
+.playicons{
+  margin-top: -15%;
+  width: 200px;
+}
+.secondset{
+  gap: 20%;
+  display: flex;
+  justify-content: center;
+  margin-left: -5%;
+  margin-top: 3%;
+}
+.stories{
+  width: 65%;
+}
+
+/*   
   @media (min-width: 280px) and (max-width: 360px) {
     .logo img {
       width: 100px;
@@ -1187,4 +1386,4 @@
       background-color: purple;
     } 
   }
-  
+   */
