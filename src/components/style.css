@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8; 
+}
+
+.portfolio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #ffffff; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skills, .projects {
+    width: 48%; 
+    padding: 20px;
+    background-color: #e9ecef; 
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.label {
+    width: 150px; 
+    border-radius: 50%; 
+}
+
+.heading2 {
+    color: #071739;; 
+    margin-top: 20px;
+}
+
+h2, h3, h4 {
+    margin: 10px 0;
+}
+
+p {
+    line-height: 1.6; 
+}
+
+ul {
+    padding-left: 20px; 
+}
+
+ul li {
+    margin-bottom: 5px; 
+}

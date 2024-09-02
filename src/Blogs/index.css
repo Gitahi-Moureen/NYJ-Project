@@ -1,0 +1,20 @@
+/*  */
+.grand-canyon{
+    height: 400px;
+    width: 450px;
+    border-radius: 20px;
+}
+.Bora-Bora{
+    height: 400px;
+    width: 450px;
+    border-radius: 20px;
+}
+.Angkor-Wat{
+    height: 400px;
+    width: 450px;
+    border-radius: 20px;
+}
+.amazing-travelling{
+    display: flex;
+    justify-content: space-around;
+}

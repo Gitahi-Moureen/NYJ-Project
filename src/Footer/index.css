@@ -1,0 +1,13 @@
+.footer{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    background-color:#071739;
+    color: white;
+}
+.container2{
+    
+        min-height: 100px; /* Example value */
+        min-width: 300px; /* Example value */
+      
+}
